@@ -1,0 +1,53 @@
+/* codigos globais */
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: silver;
+}
+
+
+/* sessão hero */
+.sessao-hero{
+    background-color: rgb(4, 120, 4);
+
+}
+
+.caixa-neon-filmes{
+    margin: 0.3rem;
+    background-color: purple;
+    color: white;
+}
+
+.play-filme{
+    color: rgb(241, 10, 118);
+
+}
+
+.frase-de-efeito {
+    color: white;
+    font-family: cursive;
+}
+
+/* sessão principais */
+
+
+/* sessão catalogo */
+
+/* sessão populares */
+
+/* sessão categorias */
+
+/* sessão detalhe-filmes */
+
+/* sessão rodapé */
+
+/* sessão-politicas */
